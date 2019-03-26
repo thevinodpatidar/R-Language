@@ -1,6 +1,6 @@
 # R Language
 
-## DescriptionR is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis
+## R is a programming language and free software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing. The R language is widely used among statisticians and data miners for developing statistical software and data analysis
 
 >Just copied from wikipedis, don't judge me for it
 
@@ -21,3 +21,14 @@ They form the basic building blocks of programming in R.
 `NA` stands for “Not Available” and is used to represent missing values.
 
 R is a case sensitive language. Which mean that `TRUE` and `True` are not the same.
+[
+
+> TRUE <- 1
+Error in TRUE <- 1 : invalid (do_set) left-hand side to assignment
+> True <- 1
+> TRUE
+[1] TRUE
+> True
+[1] 1
+
+]
