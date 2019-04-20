@@ -8,7 +8,7 @@ Visit website (https://cran.r-project.org/bin/windows/) and download it.
 
 Follow the default instllation process and install it on your machine.
 
-### Now download RStudio for better GUI and productivity
+## Now download RStudio for better GUI and productivity
 
 Visit website (https://www.rstudio.com/products/rstudio/download/)
 
